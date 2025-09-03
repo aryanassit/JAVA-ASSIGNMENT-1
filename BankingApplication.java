@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 class Account {
     private int accountNumber;
     private String accountHolderName;
